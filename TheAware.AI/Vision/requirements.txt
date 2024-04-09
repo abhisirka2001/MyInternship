@@ -1,0 +1,4 @@
+numpy==1.21.5
+opencv-python==4.5.3
+google-cloud-vision==2.5.0
+imutils==0.5.4
