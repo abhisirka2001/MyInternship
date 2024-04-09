@@ -4,7 +4,7 @@
 import pandas as pd
 import openai
 
-openai.api_key = 'sk-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' # Generate your own openai api key
+openai.api_key = '' # Generate your own openai api key
 
 df = pd.read_excel("C:\\Users\\User\\Downloads\\Eggoz\\Sentiment_Analysis\\Data\\Sentiment Analysis.xlsx") # read the excel file containing sentiments
 df=df.dropna() # run this command to remove any NA rows
