@@ -1,0 +1,16 @@
+{
+    "queries": [
+        {
+            "query": "SELECT ID, NAME FROM eggozdb.maplemonk.my_sql_product_product",
+            "sheet_name": "Sheet1_akt"
+        },
+        {
+            "query": "SELECT ID, CODE FROM eggozdb.maplemonk.my_sql_retailer_retailer",
+            "sheet_name": "Sheet2_sec"
+        },
+        {
+            "query": "SELECT DATE, SKU_ORDER_PRICE_AMOUNT FROM eggozdb.maplemonk.darjan_sales_return_replace_promo_primary_and_secondary",
+            "sheet_name": "Sheet3_eggoz"
+        }
+    ]
+}

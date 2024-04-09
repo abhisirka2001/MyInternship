@@ -1,0 +1,6 @@
+Customer Segmentation using KMeans, K-Prototype, and LLM+KMeans
+
+1. Customer Segmentation :https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41
+
+2. Github Link : https://github.com/damiangilgonzalez1995/Clustering-with-LLM
+
